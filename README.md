@@ -84,7 +84,7 @@ workshop-repo/
         └── submission.md   Fill this when opening your PR
 ```
 
----
+----
 
 ## Commit Message Standard
 
