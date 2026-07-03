@@ -107,7 +107,7 @@ Messages like `update`, `done`, `fix`, `wip`, `final` will be flagged during rev
 Your commit history tells the story of your CRAFT loop. A reviewer reading it in order
 should be able to see: what failed, what you changed, and why — for each UC.
 
----
+----
 
 ## How to Submit
 
@@ -120,7 +120,7 @@ Use the PR template — fill every section.
 Title: `[City] [Name] — Vibe Coding Submission`
 Example: `[Pune] Arshdeep Singh — Vibe Coding Submission`
 
----
+----
 
 ## Minimum Pass Requirements
 
@@ -132,7 +132,7 @@ Example: `[Pune] Arshdeep Singh — Vibe Coding Submission`
 - [ ] 4+ commits with meaningful messages, one per UC
 - [ ] PR template fully filled — every section complete
 
----
+----
 
 ## Resources
 
